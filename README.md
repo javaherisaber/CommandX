@@ -199,6 +199,11 @@ php artisan up
 composer install --ignore-platform-reqs
 ```
 
+## 5. Link storage to public
+```bat
+php artisan storage:link
+```
+
 ---
 
 # Ubuntu

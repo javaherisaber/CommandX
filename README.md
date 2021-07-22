@@ -194,6 +194,11 @@ php artisan route:cache
 php artisan up
 ```
 
+## 4. Install composer dependencies ignoring php version difference
+```bat
+composer install --ignore-platform-reqs
+```
+
 ---
 
 # Ubuntu

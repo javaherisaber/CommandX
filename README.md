@@ -30,6 +30,12 @@ keytool -printcert -jarfile app.aab
 keytool -list -v -keystore release.jks
 ```
 
+## 4. Check manifest of APK file
+make sure to add `build-tools` directory to PATH first
+```bat
+aapt dump badging myapp.apk
+```
+
 ---
 
 # Cmd

@@ -1,6 +1,7 @@
 # CommandX
 Useful commands for every CLI tool
 
+- [JsonPath](#jsonpath)
 - [Android](#android)
 - [Cmd](#cmd)
 - [Flutter](#flutter)
@@ -11,6 +12,14 @@ Useful commands for every CLI tool
 - [Intellij](#intellij)
 - [MacOs](#macos)
 - [Xcode](#xcode)
+
+---
+# JsonPath
+
+## 1. Filter with string value
+```bat
+$.Data[?(@.Date=='2021-08-21T00:00:00')].FoodMeal[?(@.Title=='افطار')]
+```
 
 ---
 # Android

@@ -296,6 +296,12 @@ Ctrl + Alt + L
 Shift + F6
 ```
 
+## 4. Jump to next/previous context
+```bat
+Ctrl + Shift + LeftArrow
+Ctrl + Shift + RightArrow
+```
+
 ---
 
 # MacOs

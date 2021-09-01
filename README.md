@@ -302,6 +302,26 @@ Ctrl + Shift + LeftArrow
 Ctrl + Shift + RightArrow
 ```
 
+## 5. Open preferences screen
+```bat
+Ctrl + Alt + S
+```
+
+## 6. Recent locations preview
+```bat
+Ctrl + Shift + E
+```
+
+## 7. Go to declaration (without left click + Ctrl)
+```bat
+Ctrl + B
+```
+
+## 8. Show definition with body
+```bat
+Ctrl + Shift + i
+```
+
 ---
 
 # MacOs

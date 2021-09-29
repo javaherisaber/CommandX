@@ -123,6 +123,12 @@ flutter build apk --analyze-size --target-platform android-arm
 flutter build apk --obfuscate --split-debug-info=C:/users/Mahdi/Desktop/symbol
 ```
 
+## 12. Update pod dependencies
+```bat
+cd ios
+pod install --repo-update
+```
+
 ---
 
 # Git

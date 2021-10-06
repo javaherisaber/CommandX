@@ -328,6 +328,33 @@ Ctrl + B
 Ctrl + Shift + i
 ```
 
+## 9. Search Everywhere
+Quickly find any file, action, symbol, tool window, or setting in IntelliJ IDEA, in your project, and in the current Git repository.
+```bat
+Double Shift
+```
+
+## 10. Add/remove line or block comment
+```bat
+Ctrl + /
+```
+
+## 11. Comment out a line or block of code.
+```bat
+Ctrl + Shift + /
+```
+
+## 12. View recent files
+```bat
+Ctrl + E
+```
+
+## 13. Complete Current Statement
+Complete Current Statement
+Insert any necessary trailing symbols and put the caret where you can start typing the next statement.
+```bat
+Ctrl + Shift + Enter
+```
 ---
 
 # MacOs

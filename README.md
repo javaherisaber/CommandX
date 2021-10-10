@@ -129,6 +129,15 @@ cd ios
 pod install --repo-update
 ```
 
+## 13. Identify out-of-date package dependencies
+```bat
+flutter pub outdated
+```
+
+## 14. Update packages to the latest version with breadking changes
+```bat
+flutter pub upgrade --major-versions
+```
 ---
 
 # Git

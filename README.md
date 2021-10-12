@@ -378,6 +378,11 @@ Command + Shift + 4
 Command + Space
 ```
 
+## 3. Show/hide hidden files and folders
+```bat
+Command + Shift + .
+```
+
 ---
 
 # Xcode

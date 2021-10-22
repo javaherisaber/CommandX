@@ -138,6 +138,11 @@ flutter pub outdated
 ```bat
 flutter pub upgrade --major-versions
 ```
+
+## 15. Build flavor apk
+```bat
+flutter build apk --flavor website --obfuscate --split-debug-info=C:\Users\Mahdi\Desktop\zireh-symbols
+```
 ---
 
 # Git

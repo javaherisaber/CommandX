@@ -162,11 +162,6 @@ git rebase -i HEAD~3
 git checkout .
 ```
 
-## 5. Get rid of LF or CRLF empty changes
-```bat
-git add --renormalize .
-```
-
 ## 4. Revert changes made to the index (i.e., that you have added), do this. 
 Warning this will reset all of your unpushed commits to master!
 ```bat
@@ -191,6 +186,11 @@ git clean -fd
 ## 8. Prune remote
 ```bat
 git remote prune origin
+```
+
+## 9. Get rid of LF or CRLF empty changes
+```bat
+git add --renormalize .
 ```
 
 ---
